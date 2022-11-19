@@ -28,12 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 </p>
 
@@ -109,8 +103,8 @@ Some screenshots of this bot
 - Done
 
 # Information
-- Language : javascript
-- Framework : nodejs
+- Language : C#
+- Framework : .NET Framework
 - Open source : no
 - Compiled : yes
 - Support device : windows
